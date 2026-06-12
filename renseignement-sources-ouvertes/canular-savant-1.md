@@ -29,6 +29,8 @@ Le moteur de recherche me donne 2 résultats intéressants :
   - Trip Advisor : "LES FONTAINES DU ROND-POINT DES CHAMPS-ELYSÉES (Paris)"
   - Wikipédia : "Rond-point des Champs-Élysées-Marcel-Dassault"
 
+## Flag
+
 <p align="center">
 <img alt="Screen flag Chall OSINT - Facile - Canular Savant 1/3 Chall"  src="https://github.com/Cr4Sh-Ov3R/404CTF-2026-WU/blob/main/assets/osint/canular-savant-1-flag.png">
 </p>
