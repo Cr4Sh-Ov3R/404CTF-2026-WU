@@ -17,7 +17,7 @@
 
 
 <p align="center">
-<img alt="Screen Chall OSINT - Facile - Canular Savant 1/3 Chall" src="https://github.com/Cr4Sh-Ov3R/404CTF-2026-WU/blob/main/assets/divers/canular-savant-1-brief.png">
+<img alt="Screen Chall Divers - Intro - Super enQuête Libre 1/4 Chall" src="https://github.com/Cr4Sh-Ov3R/404CTF-2026-WU/blob/main/assets/divers/super_enquete_libre_1-brief.png">
 </p>
 
 
@@ -26,10 +26,6 @@
 ## Process 
 
 En se connectant à la machine on peut constater qu'il existe les commandes .help et .quit qui nous sont proposées sur la base de donnée, je décide donc de lancer le .help afin de voir mes possibilités sur le système.
-
-<p align="center">
-<img alt="Screen Chall Divers - Intro - Super enQuête Libre 1/4 Chall" src="https://github.com/Cr4Sh-Ov3R/404CTF-2026-WU/blob/main/assets/divers/super_enquete_libre_1-brief.png">
-</p>
 
 ```bash 
 sql > .help
