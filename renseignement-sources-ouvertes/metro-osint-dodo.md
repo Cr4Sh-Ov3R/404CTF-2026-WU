@@ -43,14 +43,14 @@ Bien que ces recherches m'aient appris beaucoup de choses intéressantes dans le
   Ces stations semblent correspondre à l'énoncé, à savoir, un trajet direct, des stations comportant des noms de scientifiques ainsi que d'un temps de trajets de 11min en fin de matinée d'après [Bonjour RATP](https://www.bonjour-ratp.fr/itineraires/reaumur-sebastopol/gare-montparnasse/)
 
 
-  > Bien que ce soit les bonnes réponses, j'ai tenté le flag dans les 2 sens de circulation mais il s'avère que j'ai du faire une typo car je n'ai pas flag. J'ai bien flingué mes stats avec ce chall car j'en ai essayé pas mal de solutions potentielles jusqu'à arrêter ne trouvant pas la réponse
-  > Ce n'est qu'en vérifiant à la fin du 404CTF avec les challs des autres participants que j'ai vu que c'était pourtant la bonne réponse et ça a flag. Je pense donc sincèrement à une typo quand j'ai tenté.
-
 <p align="center">
 <img alt="Screen Plan métro Chall OSINT - Medium - Metro OSINT Dodo Chall" src="https://github.com/Cr4Sh-Ov3R/404CTF-2026-WU/blob/main/assets/osint/metro_osint_dodo-plan.png">
 </p>
 
 ## Flag 
+
+  > Bien que ce soit les bonnes réponses, j'ai tenté le flag dans les 2 sens de circulation mais il s'avère que j'ai du faire une typo car je n'ai pas flag. J'ai bien flingué mes stats avec ce chall car j'en ai essayé pas mal de solutions potentielles jusqu'à arrêter ne trouvant pas la réponse
+  > Ce n'est qu'en vérifiant à la fin du 404CTF avec les WU des autres participants que j'ai vu que c'était pourtant la bonne réponse et ça a flag. Je pense donc sincèrement à une typo quand j'ai tenté.
 
 <details>
 <summary>Voir le flag :</summary>
